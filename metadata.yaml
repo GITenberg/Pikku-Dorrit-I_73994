@@ -1,0 +1,48 @@
+_repo: Pikku-Dorrit-I_73994
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Kesäniemi, Helena
+    alias: Kesaniemi, Helena
+    birthdate: 1878
+    deathdate: 1968
+    gutenberg_agent_id: '57303'
+    url: http://www.gutenberg.org/2009/agents/57303
+creator:
+  author:
+    agent_name: Dickens, Charles
+    aliases:
+    - Boz
+    - Dickens, Charles John Huffam
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Dickens
+description: Translation of first part of Little Dorrit.
+gutenberg_issued: '2024-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73994'
+language: fi
+pgterms:marc905: 20240626060259dickens
+pgterms:marc906: '1926'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto Oy, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Fathers and daughters -- Fiction'
+- !lcsh 'Children of prisoners -- Fiction'
+- !lcsh 'Marshalsea Prison (Southwark, London, England) -- Fiction'
+- !lcsh 'Debt, Imprisonment for -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Pikku Dorrit I
+url: http://www.gutenberg.org/ebooks/73994
