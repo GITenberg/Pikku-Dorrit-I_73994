@@ -8,6 +8,9 @@ contributor:
     deathdate: 1968
     gutenberg_agent_id: '57303'
     url: http://www.gutenberg.org/2009/agents/57303
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dickens, Charles
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37
     wikipedia: https://en.wikipedia.org/wiki/Charles_Dickens
 description: Translation of first part of Little Dorrit.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73994#Pikku-Dorrit-I
 gutenberg_issued: '2024-07-09'
 gutenberg_type: Text
 identifiers:
